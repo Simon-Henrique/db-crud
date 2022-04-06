@@ -1,0 +1,23 @@
+{
+  "name": "db-crud",
+  "version": "1.0.0",
+  "description": "db crud test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Simon-Henrique/db-crud.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Simon-Henrique/db-crud/issues"
+  },
+  "homepage": "https://github.com/Simon-Henrique/db-crud#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
