@@ -1,2 +1,2 @@
 # db-crud
-db crud test.
+database crud
