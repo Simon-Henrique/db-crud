@@ -1,0 +1,44 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "name": "playstation5",
+      "price": 5500
+    },
+    {
+      "id": 2,
+      "name": "xiaomi mi 11",
+      "price": 8700
+    },
+    {
+      "name": "notebook mac pro max",
+      "price": 12000,
+      "id": 3
+    },
+    {
+      "name": "Sofá",
+      "price": "3200.00",
+      "id": 6
+    },
+    {
+      "name": "notebook dell inspiron ",
+      "price": "4000",
+      "id": 7
+    },
+    {
+      "name": "xiaomi mi8",
+      "price": "2000",
+      "id": 8
+    },
+    {
+      "name": "televisor 65 polegadas",
+      "price": "7000",
+      "id": 9
+    },
+    {
+      "name": "Playstation 4",
+      "price": "2500.00",
+      "id": 10
+    }
+  ]
+}
